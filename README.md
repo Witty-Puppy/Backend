@@ -1,3 +1,41 @@
 # Backend
 중요한 설정값은 [**이 사이트**](https://github.com/Witty-Puppy/Backend-settings)에 있습니다. <br/>
 (private라 팀 멤버만 들어갈 수 있습니다.)
+
+# Witty Wave
+
+**기간**: 2024.01.12 ~ 2024.02.28  
+**구성원**: 5명  
+**소개**: 팀 협업에 효율성을 높이는 통합 그룹웨어 사이트  
+
+## 프로젝트 목적
+
+1. **사내 업무 효율성을 높이는 그룹웨어 사이트**  
+2. **프로젝트 관리 기능**을 통해 협업이 많은 IT 회사에 유용한 시스템 제공  
+3. 업무 효율성을 향상시키기 위한 **메신저와 사내 메일 시스템 구축**
+
+## 주요 기능
+
+- **WebSocket을 이용한 메신저**: 실시간 채팅을 지원하는 메신저 기능
+- **협업을 위한 프로젝트 관리**: 프로젝트와 업무를 관리하는 시스템
+- **전자 결재 기능**: 결재 요청 및 승인 기능
+- **사내 게시판 기능**: 사내 공지 및 정보 공유를 위한 게시판
+- **근태 관리**: 출퇴근 관리 및 근태 기록
+
+## 사용 언어 및 개발 환경
+
+- **Language**: Java, JavaScript
+- **DB**: MySQL
+- **Front-end**: HTML, CSS, React, Redux
+- **Back-end**: Spring Boot, Spring Security, Restful API, JQuery, JPA, WebSocket
+- **Tool**: VS Code, Intellij, GitHub, Git, Notion
+- **Cloud & DevOps**: Amazon EC2, Docker, FileZilla
+
+![image](https://github.com/user-attachments/assets/3d74088a-7f62-4a5a-b3e0-5720ebc1b7a8)
+- ** Spring Security를 활용해서 JWT-Token인증 방식으로 로그인 페이지 구현
+
+![image](https://github.com/user-attachments/assets/302a021a-996e-42b0-af7d-061ca867549e)
+- ** 마이페이지에서 구글메일 인증을 통한 비밀번호 찾기 
+
+![image](https://github.com/user-attachments/assets/1dba6869-af02-42b4-a258-a3675c79e10e)
+- ** 조직원들 관리를 위해 js-tree를 활용한 Tree view 형태 조직도
