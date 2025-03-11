@@ -4,7 +4,7 @@
 **구성원**: 5명  
 **소개**: 팀 협업에 효율성을 높이는 통합 그룹웨어 사이트  
 
-![프로젝트 이미지](https://github.com/user-attachments/assets/067071c9-0775-4c57-945a-1ee70b5aa62f)
+![프로젝트 이미지](https://github.com/user-attachments/assets/fb1e096d-6d11-4978-8b2d-7ee1446848ac)
 
 ## 프로젝트 목적
 
