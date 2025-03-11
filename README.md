@@ -43,6 +43,16 @@
 ![조직도](https://github.com/user-attachments/assets/1dba6869-af02-42b4-a258-a3675c79e10e)
 - 조직도를 트리 뷰 형태로 관리할 수 있도록 js-tree를 활용하여 구현했습니다.
 
+### 4. **WebSocket을 이용한 메신저**
+![image](https://github.com/user-attachments/assets/c3dd5247-a60a-4b1b-9e9b-ed9155e84a49)
+
+### 5. **협업을 위한 프로젝트 관리**
+![image](https://github.com/user-attachments/assets/166b8452-13a7-48f8-9bdf-f896e5ece66f)
+
+### 5. **사내 메일기능**
+![image](https://github.com/user-attachments/assets/ee7eb237-d076-4314-b9ff-ef44aed08d4d)
+
+
 ## 중요한 설정값
 
 중요한 설정값은 [**이 사이트**](https://github.com/Witty-Puppy/Backend-settings)에 있습니다.  
