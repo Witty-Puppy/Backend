@@ -33,6 +33,12 @@
 
 ---
 
+## ERD
+
+![Witt-Wave ERD](https://github.com/user-attachments/assets/b7e344e3-9737-4afc-a449-759adf35b3bd)
+- 프로젝트의 데이터베이스 구조를 시각적으로 나타낸 ERD입니다.
+
+
 ## 구현한 기능
 
 ### 1. **Spring Security를 활용한 JWT-Token 인증 방식으로 로그인 페이지 구현**
