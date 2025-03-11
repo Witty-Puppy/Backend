@@ -1,7 +1,3 @@
-# Backend
-중요한 설정값은 [**이 사이트**](https://github.com/Witty-Puppy/Backend-settings)에 있습니다. <br/>
-(private라 팀 멤버만 들어갈 수 있습니다.)
-
 # Witty Wave
 
 **기간**: 2024.01.12 ~ 2024.02.28  
@@ -31,11 +27,24 @@
 - **Tool**: VS Code, Intellij, GitHub, Git, Notion
 - **Cloud & DevOps**: Amazon EC2, Docker, FileZilla
 
-![image](https://github.com/user-attachments/assets/3d74088a-7f62-4a5a-b3e0-5720ebc1b7a8)
-- ** Spring Security를 활용해서 JWT-Token인증 방식으로 로그인 페이지 구현
+---
 
-![image](https://github.com/user-attachments/assets/302a021a-996e-42b0-af7d-061ca867549e)
-- ** 마이페이지에서 구글메일 인증을 통한 비밀번호 찾기 
+## 구현한 기능
 
-![image](https://github.com/user-attachments/assets/1dba6869-af02-42b4-a258-a3675c79e10e)
-- ** 조직원들 관리를 위해 js-tree를 활용한 Tree view 형태 조직도
+### 1. **Spring Security를 활용한 JWT-Token 인증 방식으로 로그인 페이지 구현**
+![JWT 로그인](https://github.com/user-attachments/assets/3d74088a-7f62-4a5a-b3e0-5720ebc1b7a8)
+- Spring Security와 JWT를 이용하여 로그인 인증 기능을 구현했습니다.
+
+### 2. **마이페이지에서 구글메일 인증을 통한 비밀번호 찾기**
+![구글메일 인증](https://github.com/user-attachments/assets/302a021a-996e-42b0-af7d-061ca867549e)
+- 사용자가 구글 메일 인증을 통해 비밀번호를 찾을 수 있는 기능을 구현했습니다.
+
+### 3. **조직원들 관리를 위한 js-tree를 활용한 Tree view 형태 조직도**
+![조직도](https://github.com/user-attachments/assets/1dba6869-af02-42b4-a258-a3675c79e10e)
+- 조직도를 트리 뷰 형태로 관리할 수 있도록 js-tree를 활용하여 구현했습니다.
+
+## 중요한 설정값
+
+중요한 설정값은 [**이 사이트**](https://github.com/Witty-Puppy/Backend-settings)에 있습니다.  
+*(private라 팀 멤버만 들어갈 수 있습니다.)*
+
