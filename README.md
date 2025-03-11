@@ -44,13 +44,16 @@
 - 조직도를 트리 뷰 형태로 관리할 수 있도록 js-tree를 활용하여 구현했습니다.
 
 ### 4. **WebSocket을 이용한 메신저**
-![image](https://github.com/user-attachments/assets/c3dd5247-a60a-4b1b-9e9b-ed9155e84a49)
+![메신저](https://github.com/user-attachments/assets/1bff2589-9381-4551-bbbe-423abfdc3500)
+- WebSocket을 활용한 실시간 메신저 기능을 구현하여, 팀원 간 실시간으로 소통할 수 있도록 했습니다.
 
 ### 5. **협업을 위한 프로젝트 관리**
-![image](https://github.com/user-attachments/assets/166b8452-13a7-48f8-9bdf-f896e5ece66f)
+![프로젝트 관리](https://github.com/user-attachments/assets/166b8452-13a7-48f8-9bdf-f896e5ece66f)
+- 팀원 간 효율적인 프로젝트 관리와 업무 분담을 위한 시스템을 구축했습니다.
 
-### 5. **사내 메일기능**
-![image](https://github.com/user-attachments/assets/ee7eb237-d076-4314-b9ff-ef44aed08d4d)
+### 6. **사내 메일 기능**
+![사내 메일](https://github.com/user-attachments/assets/ee7eb237-d076-4314-b9ff-ef44aed08d4d)
+- 사내 메일 시스템을 통해 팀원 간 원활한 의사소통과 정보 공유가 가능합니다.
 
 
 ## 중요한 설정값
