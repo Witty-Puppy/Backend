@@ -1,6 +1,6 @@
 # Witty Wave
 
-![프로젝트 이미지](https://github.com/user-attachments/assets/fb1e096d-6d11-4978-8b2d-7ee1446848ac)
+![프로젝트 이미지](https://github.com/user-attachments/assets/292acac4-ec13-4b05-87ef-acde2849eec2)
 
 **기간**: 2024.01.12 ~ 2024.02.28  
 **구성원**: 5명  
